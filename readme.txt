@@ -1,0 +1,1 @@
+http://www.codeproject.com/Articles/782560/WPF-FIX-Automated-Trading-Client
